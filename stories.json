@@ -1,0 +1,1083 @@
+{
+  "v": 2,
+  "globalParameters": {},
+  "kindParameters": {
+    "Introduction/Form paticipation": {
+      "fileName": 1588,
+      "framework": "web-components"
+    },
+    "Introduction/Custom styles": {
+      "fileName": 1589,
+      "framework": "web-components"
+    },
+    "Introduction/Welcome": {
+      "fileName": 1636,
+      "framework": "web-components"
+    },
+    "Components/Accordion": {
+      "fileName": 1615,
+      "framework": "web-components"
+    },
+    "Components/Breadcrumb": {
+      "fileName": 1622,
+      "framework": "web-components"
+    },
+    "Components/Button": {
+      "fileName": 1628,
+      "framework": "web-components"
+    },
+    "Components/Checkbox": {
+      "fileName": 1637,
+      "framework": "web-components"
+    },
+    "Components/Code snippet": {
+      "fileName": 1616,
+      "framework": "web-components"
+    },
+    "Components/Combo box": {
+      "fileName": 1623,
+      "framework": "web-components"
+    },
+    "Components/Content switcher": {
+      "fileName": 1638,
+      "framework": "web-components"
+    },
+    "Components/Copy button": {
+      "fileName": 1639,
+      "framework": "web-components"
+    },
+    "Components/Data table": {
+      "fileName": 1600,
+      "framework": "web-components"
+    },
+    "Components/Date picker": {
+      "fileName": 1602,
+      "framework": "web-components"
+    },
+    "Components/Dropdown": {
+      "fileName": 1629,
+      "framework": "web-components"
+    },
+    "Components/File uploader": {
+      "fileName": 1617,
+      "framework": "web-components"
+    },
+    "Components/Icon": {
+      "fileName": 1598,
+      "framework": "web-components"
+    },
+    "Components/Inline loading": {
+      "fileName": 1624,
+      "framework": "web-components"
+    },
+    "Components/Input": {
+      "fileName": 1630,
+      "framework": "web-components"
+    },
+    "Components/Link": {
+      "fileName": 1640,
+      "framework": "web-components"
+    },
+    "Components/List": {
+      "fileName": 1618,
+      "framework": "web-components"
+    },
+    "Components/Loading": {
+      "fileName": 1641,
+      "framework": "web-components"
+    },
+    "Components/Modal": {
+      "fileName": 1604,
+      "framework": "web-components"
+    },
+    "Components/Multi select": {
+      "fileName": 1625,
+      "framework": "web-components"
+    },
+    "Components/Notifications": {
+      "fileName": 1610,
+      "framework": "web-components"
+    },
+    "Components/Number Input": {
+      "fileName": 1611,
+      "framework": "web-components"
+    },
+    "Components/Overflow menu": {
+      "fileName": 1642,
+      "framework": "web-components"
+    },
+    "Components/Pagination": {
+      "fileName": 1643,
+      "framework": "web-components"
+    },
+    "Components/Progress indicator": {
+      "fileName": 1609,
+      "framework": "web-components"
+    },
+    "Components/Radio button": {
+      "fileName": 1612,
+      "framework": "web-components"
+    },
+    "Components/Search": {
+      "fileName": 1631,
+      "framework": "web-components"
+    },
+    "Components/Select": {
+      "fileName": 1632,
+      "framework": "web-components"
+    },
+    "Components/Skeleton placeholder": {
+      "fileName": 1633,
+      "framework": "web-components"
+    },
+    "Components/Skeleton text": {
+      "fileName": 1626,
+      "framework": "web-components"
+    },
+    "Components/Skip to content": {
+      "fileName": 1634,
+      "framework": "web-components"
+    },
+    "Components/Slider": {
+      "fileName": 1613,
+      "framework": "web-components"
+    },
+    "Components/Structured list": {
+      "fileName": 1605,
+      "framework": "web-components"
+    },
+    "Components/Tabs": {
+      "fileName": 1607,
+      "framework": "web-components"
+    },
+    "Components/Tag": {
+      "fileName": 1619,
+      "framework": "web-components"
+    },
+    "Components/Textarea": {
+      "fileName": 1614,
+      "framework": "web-components"
+    },
+    "Components/Tile": {
+      "fileName": 1608,
+      "framework": "web-components"
+    },
+    "Components/Toggle": {
+      "fileName": 1627,
+      "framework": "web-components"
+    },
+    "Components/Tooltip": {
+      "fileName": 1606,
+      "framework": "web-components"
+    },
+    "Components/UI Shell": {
+      "fileName": 1601,
+      "framework": "web-components"
+    }
+  },
+  "stories": {
+    "introduction-welcome--page": {
+      "id": "introduction-welcome--page",
+      "name": "Page",
+      "kind": "Introduction/Welcome",
+      "story": "Page",
+      "parameters": {
+        "docsOnly": true,
+        "__id": "introduction-welcome--page",
+        "__isArgsStory": false
+      }
+    },
+    "introduction-form-paticipation--page": {
+      "id": "introduction-form-paticipation--page",
+      "name": "Page",
+      "kind": "Introduction/Form paticipation",
+      "story": "Page",
+      "parameters": {
+        "docsOnly": true,
+        "__id": "introduction-form-paticipation--page",
+        "__isArgsStory": false
+      }
+    },
+    "introduction-custom-styles--page": {
+      "id": "introduction-custom-styles--page",
+      "name": "Page",
+      "kind": "Introduction/Custom styles",
+      "story": "Page",
+      "parameters": {
+        "docsOnly": true,
+        "__id": "introduction-custom-styles--page",
+        "__isArgsStory": false
+      }
+    },
+    "components-accordion--default": {
+      "id": "components-accordion--default",
+      "name": "Default",
+      "kind": "Components/Accordion",
+      "story": "Default",
+      "parameters": {
+        "__id": "components-accordion--default",
+        "__isArgsStory": true
+      }
+    },
+    "components-breadcrumb--default": {
+      "id": "components-breadcrumb--default",
+      "name": "Default",
+      "kind": "Components/Breadcrumb",
+      "story": "Default",
+      "parameters": {
+        "__id": "components-breadcrumb--default",
+        "__isArgsStory": false
+      }
+    },
+    "components-button--default": {
+      "id": "components-button--default",
+      "name": "Default",
+      "kind": "Components/Button",
+      "story": "Default",
+      "parameters": {
+        "__id": "components-button--default",
+        "__isArgsStory": true
+      }
+    },
+    "components-button--icon": {
+      "id": "components-button--icon",
+      "name": "Icon",
+      "kind": "Components/Button",
+      "story": "Icon",
+      "parameters": {
+        "__id": "components-button--icon",
+        "__isArgsStory": true
+      }
+    },
+    "components-button--text-and-icon": {
+      "id": "components-button--text-and-icon",
+      "name": "Text and icon",
+      "kind": "Components/Button",
+      "story": "Text and icon",
+      "parameters": {
+        "__id": "components-button--text-and-icon",
+        "__isArgsStory": true
+      }
+    },
+    "components-button--skeleton": {
+      "id": "components-button--skeleton",
+      "name": "Skeleton",
+      "kind": "Components/Button",
+      "story": "Skeleton",
+      "parameters": {
+        "__id": "components-button--skeleton",
+        "__isArgsStory": true
+      }
+    },
+    "components-checkbox--default": {
+      "id": "components-checkbox--default",
+      "name": "Default",
+      "kind": "Components/Checkbox",
+      "story": "Default",
+      "parameters": {
+        "__id": "components-checkbox--default",
+        "__isArgsStory": true
+      }
+    },
+    "components-code-snippet--single-line": {
+      "id": "components-code-snippet--single-line",
+      "name": "Single line",
+      "kind": "Components/Code snippet",
+      "story": "Single line",
+      "parameters": {
+        "__id": "components-code-snippet--single-line",
+        "__isArgsStory": true
+      }
+    },
+    "components-code-snippet--multi-line": {
+      "id": "components-code-snippet--multi-line",
+      "name": "Multi line",
+      "kind": "Components/Code snippet",
+      "story": "Multi line",
+      "parameters": {
+        "__id": "components-code-snippet--multi-line",
+        "__isArgsStory": true
+      }
+    },
+    "components-code-snippet--inline": {
+      "id": "components-code-snippet--inline",
+      "name": "Inline",
+      "kind": "Components/Code snippet",
+      "story": "Inline",
+      "parameters": {
+        "__id": "components-code-snippet--inline",
+        "__isArgsStory": true
+      }
+    },
+    "components-code-snippet--skeleton-single-line": {
+      "id": "components-code-snippet--skeleton-single-line",
+      "name": "Skeleton single line",
+      "kind": "Components/Code snippet",
+      "story": "Skeleton single line",
+      "parameters": {
+        "__id": "components-code-snippet--skeleton-single-line",
+        "__isArgsStory": false
+      }
+    },
+    "components-code-snippet--skeleton-multi-line": {
+      "id": "components-code-snippet--skeleton-multi-line",
+      "name": "Skeleton multi line",
+      "kind": "Components/Code snippet",
+      "story": "Skeleton multi line",
+      "parameters": {
+        "__id": "components-code-snippet--skeleton-multi-line",
+        "__isArgsStory": false
+      }
+    },
+    "components-combo-box--default": {
+      "id": "components-combo-box--default",
+      "name": "Default",
+      "kind": "Components/Combo box",
+      "story": "Default",
+      "parameters": {
+        "__id": "components-combo-box--default",
+        "__isArgsStory": true
+      }
+    },
+    "components-content-switcher--default": {
+      "id": "components-content-switcher--default",
+      "name": "Default",
+      "kind": "Components/Content switcher",
+      "story": "Default",
+      "parameters": {
+        "__id": "components-content-switcher--default",
+        "__isArgsStory": true
+      }
+    },
+    "components-copy-button--default": {
+      "id": "components-copy-button--default",
+      "name": "Default",
+      "kind": "Components/Copy button",
+      "story": "Default",
+      "parameters": {
+        "__id": "components-copy-button--default",
+        "__isArgsStory": true
+      }
+    },
+    "components-data-table--default": {
+      "id": "components-data-table--default",
+      "name": "Default",
+      "kind": "Components/Data table",
+      "story": "Default",
+      "parameters": {
+        "__id": "components-data-table--default",
+        "__isArgsStory": true
+      }
+    },
+    "components-data-table--expandable": {
+      "id": "components-data-table--expandable",
+      "name": "Expandable",
+      "kind": "Components/Data table",
+      "story": "Expandable",
+      "parameters": {
+        "__id": "components-data-table--expandable",
+        "__isArgsStory": true
+      }
+    },
+    "components-data-table--sortable": {
+      "id": "components-data-table--sortable",
+      "name": "Sortable",
+      "kind": "Components/Data table",
+      "story": "Sortable",
+      "parameters": {
+        "__id": "components-data-table--sortable",
+        "__isArgsStory": true
+      }
+    },
+    "components-data-table--sortable-with-pagination": {
+      "id": "components-data-table--sortable-with-pagination",
+      "name": "Sortable with pagination",
+      "kind": "Components/Data table",
+      "story": "Sortable with pagination",
+      "parameters": {
+        "__id": "components-data-table--sortable-with-pagination",
+        "__isArgsStory": true
+      }
+    },
+    "components-data-table--skeleton": {
+      "id": "components-data-table--skeleton",
+      "name": "Skeleton",
+      "kind": "Components/Data table",
+      "story": "Skeleton",
+      "parameters": {
+        "__id": "components-data-table--skeleton",
+        "__isArgsStory": true
+      }
+    },
+    "components-date-picker--default": {
+      "id": "components-date-picker--default",
+      "name": "Default",
+      "kind": "Components/Date picker",
+      "story": "Default",
+      "parameters": {
+        "__id": "components-date-picker--default",
+        "__isArgsStory": true
+      }
+    },
+    "components-date-picker--single-with-calendar": {
+      "id": "components-date-picker--single-with-calendar",
+      "name": "Single with calendar",
+      "kind": "Components/Date picker",
+      "story": "Single with calendar",
+      "parameters": {
+        "__id": "components-date-picker--single-with-calendar",
+        "__isArgsStory": true
+      }
+    },
+    "components-date-picker--range-with-calendar": {
+      "id": "components-date-picker--range-with-calendar",
+      "name": "Range with calendar",
+      "kind": "Components/Date picker",
+      "story": "Range with calendar",
+      "parameters": {
+        "__id": "components-date-picker--range-with-calendar",
+        "__isArgsStory": true
+      }
+    },
+    "components-date-picker--skeleton-simple": {
+      "id": "components-date-picker--skeleton-simple",
+      "name": "Skeleton simple",
+      "kind": "Components/Date picker",
+      "story": "Skeleton simple",
+      "parameters": {
+        "__id": "components-date-picker--skeleton-simple",
+        "__isArgsStory": false
+      }
+    },
+    "components-date-picker--skeleton-single": {
+      "id": "components-date-picker--skeleton-single",
+      "name": "Skeleton single",
+      "kind": "Components/Date picker",
+      "story": "Skeleton single",
+      "parameters": {
+        "__id": "components-date-picker--skeleton-single",
+        "__isArgsStory": false
+      }
+    },
+    "components-date-picker--skeleton-range": {
+      "id": "components-date-picker--skeleton-range",
+      "name": "Skeleton range",
+      "kind": "Components/Date picker",
+      "story": "Skeleton range",
+      "parameters": {
+        "__id": "components-date-picker--skeleton-range",
+        "__isArgsStory": false
+      }
+    },
+    "components-dropdown--default": {
+      "id": "components-dropdown--default",
+      "name": "Default",
+      "kind": "Components/Dropdown",
+      "story": "Default",
+      "parameters": {
+        "__id": "components-dropdown--default",
+        "__isArgsStory": true
+      }
+    },
+    "components-dropdown--skeleton": {
+      "id": "components-dropdown--skeleton",
+      "name": "Skeleton",
+      "kind": "Components/Dropdown",
+      "story": "Skeleton",
+      "parameters": {
+        "__id": "components-dropdown--skeleton",
+        "__isArgsStory": false
+      }
+    },
+    "components-file-uploader--default": {
+      "id": "components-file-uploader--default",
+      "name": "Default",
+      "kind": "Components/File uploader",
+      "story": "Default",
+      "parameters": {
+        "__id": "components-file-uploader--default",
+        "__isArgsStory": true
+      }
+    },
+    "components-icon--default": {
+      "id": "components-icon--default",
+      "name": "Default",
+      "kind": "Components/Icon",
+      "story": "Default",
+      "parameters": {
+        "__id": "components-icon--default",
+        "__isArgsStory": false
+      }
+    },
+    "components-icon--with-custom-class": {
+      "id": "components-icon--with-custom-class",
+      "name": "With custom class",
+      "kind": "Components/Icon",
+      "story": "With custom class",
+      "parameters": {
+        "__id": "components-icon--with-custom-class",
+        "__isArgsStory": false
+      }
+    },
+    "components-icon--with-aria-label": {
+      "id": "components-icon--with-aria-label",
+      "name": "With aria-label",
+      "kind": "Components/Icon",
+      "story": "With aria-label",
+      "parameters": {
+        "__id": "components-icon--with-aria-label",
+        "__isArgsStory": false
+      }
+    },
+    "components-icon--with-title": {
+      "id": "components-icon--with-title",
+      "name": "With title",
+      "kind": "Components/Icon",
+      "story": "With title",
+      "parameters": {
+        "__id": "components-icon--with-title",
+        "__isArgsStory": false
+      }
+    },
+    "components-inline-loading--default": {
+      "id": "components-inline-loading--default",
+      "name": "Default",
+      "kind": "Components/Inline loading",
+      "story": "Default",
+      "parameters": {
+        "__id": "components-inline-loading--default",
+        "__isArgsStory": true
+      }
+    },
+    "components-input--default": {
+      "id": "components-input--default",
+      "name": "Default",
+      "kind": "Components/Input",
+      "story": "Default",
+      "parameters": {
+        "__id": "components-input--default",
+        "__isArgsStory": true
+      }
+    },
+    "components-input--form-item": {
+      "id": "components-input--form-item",
+      "name": "Form item",
+      "kind": "Components/Input",
+      "story": "Form item",
+      "parameters": {
+        "__id": "components-input--form-item",
+        "__isArgsStory": true
+      }
+    },
+    "components-input--without-form-item-wrapper": {
+      "id": "components-input--without-form-item-wrapper",
+      "name": "Without form item wrapper",
+      "kind": "Components/Input",
+      "story": "Without form item wrapper",
+      "parameters": {
+        "__id": "components-input--without-form-item-wrapper",
+        "__isArgsStory": true
+      }
+    },
+    "components-link--default": {
+      "id": "components-link--default",
+      "name": "Default",
+      "kind": "Components/Link",
+      "story": "Default",
+      "parameters": {
+        "__id": "components-link--default",
+        "__isArgsStory": true
+      }
+    },
+    "components-list--ordered": {
+      "id": "components-list--ordered",
+      "name": "Ordered",
+      "kind": "Components/List",
+      "story": "Ordered",
+      "parameters": {
+        "__id": "components-list--ordered",
+        "__isArgsStory": false
+      }
+    },
+    "components-list--unordered": {
+      "id": "components-list--unordered",
+      "name": "Unordered",
+      "kind": "Components/List",
+      "story": "Unordered",
+      "parameters": {
+        "__id": "components-list--unordered",
+        "__isArgsStory": false
+      }
+    },
+    "components-loading--default": {
+      "id": "components-loading--default",
+      "name": "Default",
+      "kind": "Components/Loading",
+      "story": "Default",
+      "parameters": {
+        "__id": "components-loading--default",
+        "__isArgsStory": true
+      }
+    },
+    "components-modal--default": {
+      "id": "components-modal--default",
+      "name": "Default",
+      "kind": "Components/Modal",
+      "story": "Default",
+      "parameters": {
+        "__id": "components-modal--default",
+        "__isArgsStory": true
+      }
+    },
+    "components-multi-select--default": {
+      "id": "components-multi-select--default",
+      "name": "Default",
+      "kind": "Components/Multi select",
+      "story": "Default",
+      "parameters": {
+        "__id": "components-multi-select--default",
+        "__isArgsStory": true
+      }
+    },
+    "components-notifications--inline": {
+      "id": "components-notifications--inline",
+      "name": "Inline",
+      "kind": "Components/Notifications",
+      "story": "Inline",
+      "parameters": {
+        "__id": "components-notifications--inline",
+        "__isArgsStory": true
+      }
+    },
+    "components-notifications--toast": {
+      "id": "components-notifications--toast",
+      "name": "Toast",
+      "kind": "Components/Notifications",
+      "story": "Toast",
+      "parameters": {
+        "__id": "components-notifications--toast",
+        "__isArgsStory": true
+      }
+    },
+    "components-number-input--default": {
+      "id": "components-number-input--default",
+      "name": "Default",
+      "kind": "Components/Number Input",
+      "story": "Default",
+      "parameters": {
+        "__id": "components-number-input--default",
+        "__isArgsStory": true
+      }
+    },
+    "components-number-input--form-item": {
+      "id": "components-number-input--form-item",
+      "name": "Form item",
+      "kind": "Components/Number Input",
+      "story": "Form item",
+      "parameters": {
+        "__id": "components-number-input--form-item",
+        "__isArgsStory": true
+      }
+    },
+    "components-number-input--without-form-item-wrapper": {
+      "id": "components-number-input--without-form-item-wrapper",
+      "name": "Without form item wrapper",
+      "kind": "Components/Number Input",
+      "story": "Without form item wrapper",
+      "parameters": {
+        "__id": "components-number-input--without-form-item-wrapper",
+        "__isArgsStory": true
+      }
+    },
+    "components-number-input--skeleton": {
+      "id": "components-number-input--skeleton",
+      "name": "Skeleton",
+      "kind": "Components/Number Input",
+      "story": "Skeleton",
+      "parameters": {
+        "__id": "components-number-input--skeleton",
+        "__isArgsStory": false
+      }
+    },
+    "components-overflow-menu--default": {
+      "id": "components-overflow-menu--default",
+      "name": "Default",
+      "kind": "Components/Overflow menu",
+      "story": "Default",
+      "parameters": {
+        "__id": "components-overflow-menu--default",
+        "__isArgsStory": true
+      }
+    },
+    "components-pagination--default": {
+      "id": "components-pagination--default",
+      "name": "Default",
+      "kind": "Components/Pagination",
+      "story": "Default",
+      "parameters": {
+        "__id": "components-pagination--default",
+        "__isArgsStory": true
+      }
+    },
+    "components-progress-indicator--default": {
+      "id": "components-progress-indicator--default",
+      "name": "Default",
+      "kind": "Components/Progress indicator",
+      "story": "Default",
+      "parameters": {
+        "__id": "components-progress-indicator--default",
+        "__isArgsStory": true
+      }
+    },
+    "components-progress-indicator--skeleton": {
+      "id": "components-progress-indicator--skeleton",
+      "name": "Skeleton",
+      "kind": "Components/Progress indicator",
+      "story": "Skeleton",
+      "parameters": {
+        "__id": "components-progress-indicator--skeleton",
+        "__isArgsStory": true
+      }
+    },
+    "components-radio-button--default": {
+      "id": "components-radio-button--default",
+      "name": "Default",
+      "kind": "Components/Radio button",
+      "story": "Default",
+      "parameters": {
+        "__id": "components-radio-button--default",
+        "__isArgsStory": true
+      }
+    },
+    "components-radio-button--skeleton": {
+      "id": "components-radio-button--skeleton",
+      "name": "Skeleton",
+      "kind": "Components/Radio button",
+      "story": "Skeleton",
+      "parameters": {
+        "__id": "components-radio-button--skeleton",
+        "__isArgsStory": false
+      }
+    },
+    "components-search--default": {
+      "id": "components-search--default",
+      "name": "Default",
+      "kind": "Components/Search",
+      "story": "Default",
+      "parameters": {
+        "__id": "components-search--default",
+        "__isArgsStory": true
+      }
+    },
+    "components-search--skeleton": {
+      "id": "components-search--skeleton",
+      "name": "Skeleton",
+      "kind": "Components/Search",
+      "story": "Skeleton",
+      "parameters": {
+        "__id": "components-search--skeleton",
+        "__isArgsStory": false
+      }
+    },
+    "components-select--default": {
+      "id": "components-select--default",
+      "name": "Default",
+      "kind": "Components/Select",
+      "story": "Default",
+      "parameters": {
+        "__id": "components-select--default",
+        "__isArgsStory": true
+      }
+    },
+    "components-skeleton-placeholder--default": {
+      "id": "components-skeleton-placeholder--default",
+      "name": "Default",
+      "kind": "Components/Skeleton placeholder",
+      "story": "Default",
+      "parameters": {
+        "__id": "components-skeleton-placeholder--default",
+        "__isArgsStory": false
+      }
+    },
+    "components-skeleton-text--default": {
+      "id": "components-skeleton-text--default",
+      "name": "Default",
+      "kind": "Components/Skeleton text",
+      "story": "Default",
+      "parameters": {
+        "__id": "components-skeleton-text--default",
+        "__isArgsStory": true
+      }
+    },
+    "components-skeleton-text--lines": {
+      "id": "components-skeleton-text--lines",
+      "name": "Lines",
+      "kind": "Components/Skeleton text",
+      "story": "Lines",
+      "parameters": {
+        "__id": "components-skeleton-text--lines",
+        "__isArgsStory": false
+      }
+    },
+    "components-skip-to-content--default": {
+      "id": "components-skip-to-content--default",
+      "name": "Default",
+      "kind": "Components/Skip to content",
+      "story": "Default",
+      "parameters": {
+        "__id": "components-skip-to-content--default",
+        "__isArgsStory": false
+      }
+    },
+    "components-slider--default": {
+      "id": "components-slider--default",
+      "name": "Default",
+      "kind": "Components/Slider",
+      "story": "Default",
+      "parameters": {
+        "__id": "components-slider--default",
+        "__isArgsStory": true
+      }
+    },
+    "components-slider--with-input-box": {
+      "id": "components-slider--with-input-box",
+      "name": "With input box",
+      "kind": "Components/Slider",
+      "story": "With input box",
+      "parameters": {
+        "__id": "components-slider--with-input-box",
+        "__isArgsStory": true
+      }
+    },
+    "components-slider--skeleton": {
+      "id": "components-slider--skeleton",
+      "name": "Skeleton",
+      "kind": "Components/Slider",
+      "story": "Skeleton",
+      "parameters": {
+        "__id": "components-slider--skeleton",
+        "__isArgsStory": false
+      }
+    },
+    "components-structured-list--default": {
+      "id": "components-structured-list--default",
+      "name": "Default",
+      "kind": "Components/Structured list",
+      "story": "Default",
+      "parameters": {
+        "__id": "components-structured-list--default",
+        "__isArgsStory": true
+      }
+    },
+    "components-structured-list--skeleton": {
+      "id": "components-structured-list--skeleton",
+      "name": "Skeleton",
+      "kind": "Components/Structured list",
+      "story": "Skeleton",
+      "parameters": {
+        "__id": "components-structured-list--skeleton",
+        "__isArgsStory": false
+      }
+    },
+    "components-tabs--default": {
+      "id": "components-tabs--default",
+      "name": "Default",
+      "kind": "Components/Tabs",
+      "story": "Default",
+      "parameters": {
+        "__id": "components-tabs--default",
+        "__isArgsStory": true
+      }
+    },
+    "components-tabs--skeleton": {
+      "id": "components-tabs--skeleton",
+      "name": "Skeleton",
+      "kind": "Components/Tabs",
+      "story": "Skeleton",
+      "parameters": {
+        "__id": "components-tabs--skeleton",
+        "__isArgsStory": false
+      }
+    },
+    "components-tag--default": {
+      "id": "components-tag--default",
+      "name": "Default",
+      "kind": "Components/Tag",
+      "story": "Default",
+      "parameters": {
+        "__id": "components-tag--default",
+        "__isArgsStory": true
+      }
+    },
+    "components-tag--filter": {
+      "id": "components-tag--filter",
+      "name": "Filter",
+      "kind": "Components/Tag",
+      "story": "Filter",
+      "parameters": {
+        "__id": "components-tag--filter",
+        "__isArgsStory": true
+      }
+    },
+    "components-textarea--default": {
+      "id": "components-textarea--default",
+      "name": "Default",
+      "kind": "Components/Textarea",
+      "story": "Default",
+      "parameters": {
+        "__id": "components-textarea--default",
+        "__isArgsStory": true
+      }
+    },
+    "components-textarea--form-item": {
+      "id": "components-textarea--form-item",
+      "name": "Form item",
+      "kind": "Components/Textarea",
+      "story": "Form item",
+      "parameters": {
+        "__id": "components-textarea--form-item",
+        "__isArgsStory": true
+      }
+    },
+    "components-textarea--without-form-item-wrapper": {
+      "id": "components-textarea--without-form-item-wrapper",
+      "name": "Without form item wrapper",
+      "kind": "Components/Textarea",
+      "story": "Without form item wrapper",
+      "parameters": {
+        "__id": "components-textarea--without-form-item-wrapper",
+        "__isArgsStory": true
+      }
+    },
+    "components-textarea--skeleton": {
+      "id": "components-textarea--skeleton",
+      "name": "Skeleton",
+      "kind": "Components/Textarea",
+      "story": "Skeleton",
+      "parameters": {
+        "__id": "components-textarea--skeleton",
+        "__isArgsStory": false
+      }
+    },
+    "components-tile--default": {
+      "id": "components-tile--default",
+      "name": "Default",
+      "kind": "Components/Tile",
+      "story": "Default",
+      "parameters": {
+        "__id": "components-tile--default",
+        "__isArgsStory": true
+      }
+    },
+    "components-tile--clickable": {
+      "id": "components-tile--clickable",
+      "name": "Clickable",
+      "kind": "Components/Tile",
+      "story": "Clickable",
+      "parameters": {
+        "__id": "components-tile--clickable",
+        "__isArgsStory": true
+      }
+    },
+    "components-tile--single-selectable": {
+      "id": "components-tile--single-selectable",
+      "name": "Single-selectable",
+      "kind": "Components/Tile",
+      "story": "Single-selectable",
+      "parameters": {
+        "__id": "components-tile--single-selectable",
+        "__isArgsStory": true
+      }
+    },
+    "components-tile--multi-selectable": {
+      "id": "components-tile--multi-selectable",
+      "name": "Multi-selectable",
+      "kind": "Components/Tile",
+      "story": "Multi-selectable",
+      "parameters": {
+        "__id": "components-tile--multi-selectable",
+        "__isArgsStory": true
+      }
+    },
+    "components-tile--expandable": {
+      "id": "components-tile--expandable",
+      "name": "Expandable",
+      "kind": "Components/Tile",
+      "story": "Expandable",
+      "parameters": {
+        "__id": "components-tile--expandable",
+        "__isArgsStory": true
+      }
+    },
+    "components-toggle--default": {
+      "id": "components-toggle--default",
+      "name": "Default",
+      "kind": "Components/Toggle",
+      "story": "Default",
+      "parameters": {
+        "__id": "components-toggle--default",
+        "__isArgsStory": true
+      }
+    },
+    "components-tooltip--default": {
+      "id": "components-tooltip--default",
+      "name": "Default",
+      "kind": "Components/Tooltip",
+      "story": "Default",
+      "parameters": {
+        "__id": "components-tooltip--default",
+        "__isArgsStory": true
+      }
+    },
+    "components-tooltip--definition": {
+      "id": "components-tooltip--definition",
+      "name": "Definition tooltip",
+      "kind": "Components/Tooltip",
+      "story": "Definition tooltip",
+      "parameters": {
+        "__id": "components-tooltip--definition",
+        "__isArgsStory": true
+      }
+    },
+    "components-tooltip--icon": {
+      "id": "components-tooltip--icon",
+      "name": "Icon tooltip",
+      "kind": "Components/Tooltip",
+      "story": "Icon tooltip",
+      "parameters": {
+        "__id": "components-tooltip--icon",
+        "__isArgsStory": true
+      }
+    },
+    "components-ui-shell--side-nav": {
+      "id": "components-ui-shell--side-nav",
+      "name": "Side nav",
+      "kind": "Components/UI Shell",
+      "story": "Side nav",
+      "parameters": {
+        "__id": "components-ui-shell--side-nav",
+        "__isArgsStory": true
+      }
+    },
+    "components-ui-shell--side-nav-with-icons": {
+      "id": "components-ui-shell--side-nav-with-icons",
+      "name": "Side nav with icons",
+      "kind": "Components/UI Shell",
+      "story": "Side nav with icons",
+      "parameters": {
+        "__id": "components-ui-shell--side-nav-with-icons",
+        "__isArgsStory": true
+      }
+    },
+    "components-ui-shell--header": {
+      "id": "components-ui-shell--header",
+      "name": "Header",
+      "kind": "Components/UI Shell",
+      "story": "Header",
+      "parameters": {
+        "__id": "components-ui-shell--header",
+        "__isArgsStory": true
+      }
+    }
+  }
+}
